@@ -1,5 +1,5 @@
 
-# Project Title
+# ChatApp Using React
 
 A simple message sending app using React.
 
