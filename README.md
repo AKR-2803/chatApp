@@ -7,7 +7,6 @@ A simple message sending app using React.
 ## Demo
 
 You can visit the deployed site [here](https://aaryaveerrjaput.netlify.app/).
-<a href="https://aaryaveerrjaput.netlify.app/" target="_blank">here</a>
 
 Some texts might be already visible which are sent via others, similar to a group chat.
 
