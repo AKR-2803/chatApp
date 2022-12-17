@@ -19,7 +19,7 @@ Make sure you have Node.js installed. You can install it from [here](https://nod
 To deploy this project download the zip file into a local directory, which will be your current working directory.Type this command to change the current directory.
 
 ```bash
-  cd /directoryPath/
+  cd /path to your directory/
 ```
 
 ### Install node_modules
